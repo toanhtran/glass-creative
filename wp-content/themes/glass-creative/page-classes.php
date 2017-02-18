@@ -1,5 +1,5 @@
 <?php 
-/ * Template Name: Classes Pages Template */
+// * Template Name: Classes Pages Template */
 
 get_header();
 ?>

@@ -13,8 +13,8 @@
                
                <?php 
     // Start the loop if we have post if we do have post past a post object 
-                if (have_posts()) :
-                    while(have_post()) :
+                if (have_posts() ) :
+                    while(have_posts()) :
                             the_post();
                                 the_content();
                         endwhile;
