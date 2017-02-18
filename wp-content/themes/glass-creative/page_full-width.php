@@ -1,12 +1,12 @@
 <?php 
-/* Main Template File */
+/* Template Name: Full-Width Template */
         get_header();
 ?>
 
 
 
 <div class="main-content-width-wrapper">
-        <div class="index-entry">
+        <div class="full-width-entry">
             <h1><?php echo get_the_title() ?></h1>
         
             <main class="main-content">
